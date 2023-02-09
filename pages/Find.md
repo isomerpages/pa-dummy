@@ -3,8 +3,6 @@ title: Find
 permalink: /find/
 description: ""
 ---
-
-
 <form id="form" role="search">
       <input type="search" id="query" name="q"
        placeholder="Search..."
