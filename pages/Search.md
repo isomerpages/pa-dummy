@@ -7,5 +7,5 @@ description: ""
       <input type="search" id="query" name="q"
        placeholder="Search..."
        aria-label="Search through site content"><br><br>
-      <button>Find</button>
+	<a href="/SampleData/">Find</a>
     </form>
