@@ -3,9 +3,9 @@ title: Search
 permalink: /search/
 description: ""
 ---
-    <form id="form" role="search">
+<form id="form" role="search">
       <input type="search" id="query" name="q"
        placeholder="Search..."
-       aria-label="Search through site content">
-      <button>Search</button>
+       aria-label="Search through site content"><br><br>
+      <button>Find</button>
     </form>
